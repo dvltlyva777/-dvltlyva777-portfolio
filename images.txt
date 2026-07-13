@@ -1,0 +1,3 @@
+images/
+├── profile.jpg   ← Sizning rasmingiz
+└── logo.png      ← Logotipingiz

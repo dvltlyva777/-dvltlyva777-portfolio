@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dvltlyva.777</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+  <h2>Dvltlyva.777</h2>
+
+  <div class="menu">
+    <a href="#about">Men haqimda</a>
+    <a href="#services">Xizmatlar</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#contact">Bog'lanish</a>
+  </div>
+</nav>
+
+<section class="hero">
+
+<h1>Premium Mobilograf</h1>
+
+<p>
+Professional video olish, montaj va Instagram Reels yaratish.
+</p>
+
+<a class="btn" href="https://t.me/dvltlyva">
+Buyurtma berish
+</a>
+
+</section>
+
+<section id="about">
+
+<h2>Men haqimda</h2>
+
+<p>
+Men Dvltlyva.777 — mobilograf va video montaj ustasiman.
+Biznesingiz uchun zamonaviy va kreativ videolar tayyorlayman.
+</p>
+
+</section>
+
+<section id="services">
+
+<h2>Xizmatlar</h2>
+
+<div class="card">
+🎥 Oddiy video + montaj
+<br>
+300 000 so'm
+</div>
+
+<div class="card">
+📝 Subtitr bilan montaj
+<br>
+400 000 so'm
+</div>
+
+<div class="card">
+🔥 Premium paket
+<br>
+600 000 so'm
+</div>
+
+</section>
+
+<section id="portfolio">
+
+<h2>Portfolio</h2>
+
+<p>Instagram Reels'larimni ko'ring.</p>
+
+<a href="https://www.instagram.com/reel/DSP5t1eDEnd/">
+1-video
+</a>
+
+<br><br>
+
+<a href="https://www.instagram.com/reel/DSKFm-8CDsj/">
+2-video
+</a>
+
+</section>
+
+<section id="contact">
+
+<h2>Bog'lanish</h2>
+
+<p>
+Instagram:
+<a href="https://www.instagram.com/_dvltlyva777">
+@_dvltlyva777
+</a>
+</p>
+
+<p>
+Telegram:
+<a href="https://t.me/dvltlyva">
+@dvltlyva
+</a>
+</p>
+
+<p>
+Telefon:
+<a href="tel:+998774219737">
++998 77 421 97 37
+</a>
+</p>
+
+</section>
+
+<footer>
+
+© 2026 Dvltlyva.777
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html><section class="hero">
+
+<img src="images/profile.jpg" class="profile">
+
+<h1>Dvltlyva.777</h1>
+
+<p>
+Mobilograf • Video Editor • Content Creator
+</p>
+
+<a class="btn" href="https://t.me/dvltlyva">
+Buyurtma berish
+</a>
+
+</section>
